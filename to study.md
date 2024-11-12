@@ -1,0 +1,65 @@
+# Cose da guardare
+- gdb
+- wifi: 
+	- come funziona, principali cose dal libro
+	- come craccarlo
+	- aircrackng
+	  
+- ram?
+- elkstack
+- docker
+- [Backgrounding and Foregrounding in Linux](#backgrounding-and-foregrounding-in-linux)
+- Living Off The Land check this [link](https://lolbas-project.github.io/)
+- lpc1 security essential
+- tycoon
+- tmrr
+- [pishing e alcuni comandi p metodi da john](#phising)
+- rclone.exe
+- redline
+- john the ripper
+- rainbow crack
+- mimikatz
+- lpc1 security essential
+- tycoon ?
+- tmrr
+- rclone.exe
+- redline
+- mimikatz
+- [snyk.io](https://snyk.io/)
+- hashcat
+- rustscan
+- Cobalt Strike
+- nessus
+- sliver
+- Post-exploitation [thm 1](https://tryhackme.com/room/postexploit)
+- bloodhound [link 1](https://www.pentestpartners.com/security-blog/bloodhound-walkthrough-a-tool-for-many-tradecrafts/)  [thm Post-exploitation](https://tryhackme.com/room/postexploit) [youtube 1](https://youtu.be/sGO4F23Xik4)
+- Compare Windows 10 Home vs. Pro [link 1](https://www.microsoft.com/en-us/windows/compare-windows-10-home-vs-pro)
+- metasploit
+- linux pam degradation attack
+- tshark
+- pyshark
+- git
+- github
+- SCP
+- owasp
+- [bugcrowd](#bug-bounty)
+- [DVWA – Damn Vulnerable Web Application](https://www.homelab.it/index.php/2015/12/24/dvwa-damn-vulnerable-web-application/)
+- skipfish
+- wapiti
+- OWASP zed attack proxy
+- XSSer
+- [volatility](https://github.com/volatilityfoundation/volatility)
+- Meterpreter
+- from oliCTF writeups:
+  - git
+  - pyshark
+  - DOM clobbering, DOM based XSS
+  - columnar transposition cipher
+  - [Cramer-Shoup](https://en.wikipedia.org/wiki/Cramer%E2%80%93Shoup_cryptosystem)
+- C:
+  - inline functions
+  - extern, static
+  - optional arguments (C functions declarations pag 84)
+  - differenza struct e union
+  - bitfields
+  - string vulnerabilities, print f (%qualcosa), bufferoverflow
