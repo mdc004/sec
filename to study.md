@@ -1,11 +1,9 @@
 # Cose da guardare
 - gdb
-- wifi: 
-	- come funziona, principali cose dal libro
-	- come craccarlo
-	- aircrackng
-	  
-- ram?
+- wifi:
+  - come funziona, principali cose dal libro
+  - come craccarlo
+  - aircrackng
 - elkstack
 - docker
 - [Backgrounding and Foregrounding in Linux](#backgrounding-and-foregrounding-in-linux)
@@ -45,7 +43,6 @@
 - [bugcrowd](#bug-bounty)
 - [DVWA – Damn Vulnerable Web Application](https://www.homelab.it/index.php/2015/12/24/dvwa-damn-vulnerable-web-application/)
 - skipfish
-- wapiti
 - OWASP zed attack proxy
 - XSSer
 - [volatility](https://github.com/volatilityfoundation/volatility)
