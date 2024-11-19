@@ -73,6 +73,7 @@ Il cookie sessione è in base 64, decodificarlo e vedere come è scritto, non se
 - [nikto](#nikto)
 - [rustscan](#rustscan)
 - [smbclient](#smbclient)
+- [wapiti](https://wapiti-scanner.github.io/) *a web scanner*
 
 Modificare ed effettuare richieste particolari:
 - postman
