@@ -25,10 +25,6 @@ Eseguire i classici comandi:
 > Ricordati di modificare luminosità, contrasto, colori...
 
 ### Steganografia
-Molte volte si usa nascondere la flag all'interno dell'immagine, utilizzando la tecnica della [[steganografia]].
-
-Di seguito alcuni comandi e strumenti utilizzati per estrarre i file conenuti all'interno di un altro file, che giro strano di file dentro altri file che contengono file?
-
 - `binwalk`
     Di base è possbile usare [binwalk](#binwalk)  senza alcuna opzione per controllare se nel file siano presenti altri contenuti nascosti, in caso positivo con l'opzione `-e`: `binwalk -e nomefile` si possono estrarre, è l'opzione più **conveniente** e **semplice**.
 - aperisolve
@@ -72,7 +68,7 @@ Di seguito alcuni comandi e strumenti utilizzati per estrarre i file conenuti al
 - MSU StegoVideo
 
 ### Corruzione header 
-Se pensi che sia necessario modificare l'header dell'immagine, è necessario capire il tipo di immagine e poi modificare l'header copiandolo da un'immagine in quel formato, per farlo è possibile utilizzare un software quale [HxD]()
+Se pensi che sia necessario modificare l'header dell'immagine, è necessario capire il tipo di immagine e poi modificare l'header copiandolo da un'immagine in quel formato, per farlo è possibile utilizzare un software quale **HxD**
 
 ## OCR
 
