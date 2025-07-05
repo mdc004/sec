@@ -61,8 +61,11 @@ Add `+` at the end of the URL to see the site where the redirect links will brin
 - **`robots.txt`**
 Sometimes the websites contain a robots.txt file, it can be usefull for example for the SEO, in particular we could don't want to indexing our web sites.
 
-- Sessioni
-Il cookie sessione è in base 64, decodificarlo e vedere come è scritto, non sempre è possibile copiarlo ed essere loggati, però in alcuni casi si. Per defifrarlo basta usare [CyberChef](https://cyberchef.org/)
+- **Cookie**
+    There are different options:
+    - **sniffing** the traffic, so the cookies --> session hijacking if it is the cookie session
+    - **session cookie** is in base64, sometimes you can **decode** the cookie and **change** the **user** and sometimes you can copy and paste (session hijacking) or if you don't know what to do brute force or value prediction
+    - same hostname shares same cookies
 
 - Prova sempre a loggarti come **admin**
 
