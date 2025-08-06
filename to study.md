@@ -60,3 +60,4 @@
   - differenza struct e union
   - bitfields
   - string vulnerabilities, print f (%qualcosa), bufferoverflow
+- app.any.run
