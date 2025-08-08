@@ -13,7 +13,7 @@ Avviare Wireshark, saranno disponibili alcune interfacce `usbmon x`, per selezio
 Nel caso in cui la cattura non andasse a termine l'utente potrebbe non avere i privilegi necessari per vedere i pacchetti, eseguire perciò il comando [`chmod`](#chmod) per acquisire i permessi: `chmod 644 /dev/usbmon2`, attenzione perché potrebbe aprire importanti falle di sicurezza.
 
 Dopo aver terminato eseguire il comando [`rmmod`](#rmmod) per rimuover il driver `usbmon` dal kernel: `rmmod usbmon`.
-###### spiegare i comandi `chmod`, `rmmod`, `lsusb`, `lsmod`, `modprobe` e `usbmon`
+
 #### Windows
 Per catturare il traffico sul bus *USB* su *Windows* è necessario appoggiarsi al comando [`USBPcap`](#usbpcap): eseguirlo, selezionare il dispositivo ed effettuare la scansione, al terminine aprire il file creato dal comando con Wireshark.
 
@@ -63,7 +63,6 @@ Per catturare il traffico sul bus *USB* su *Windows* è necessario appoggiarsi a
 - OpenVAS
 - [smbclient](#smbclient)
 
-###### `sudo apt install macchanger`
 Non esiste una vera e propria lista da seguire, ma ci sono dei piccoli *punti* che possono essere seguiti o attuati:
 - [[Network sniffing]]
 - [[Capture USB traffic]]
@@ -108,7 +107,7 @@ Di fondamentale importanza sono le liste di account violati disponibili online, 
 
 ### DNS
 Query DNS server:
-- `dig`: fa query ad un **server DNS** di conseguenza è come fare richieste ai dns di google (`8.8.8.8`), ad esempio: `dig @newstate.challs-terr.olicyber.it -p 12008 the.flag any`, `any` serve a richiedere tutti i record disponibili.
+- `dig` ad esempio: `dig @newstate.challs-terr.olicyber.it -p 12008 the.flag any`, `any` serve a richiedere tutti i record disponibili.
 - `host`
 - `dnslookup`
 - [dnsdumpster](https://dnsdumpster.com/)
