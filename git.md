@@ -10,3 +10,6 @@
 4. `git push origin main`
 
 `git log` to see the commits
+
+## How to download
+se non hai commit sul locale e vuoi aggiornare il locale con quello sul repo originale: `git pull origin main:`
