@@ -1,3 +1,0 @@
-- [Snyk Vulnerability Database](https://security.snyk.io/)
-- [nvd nist](https://nvd.nist.gov/)
-- [cve](https://www.cve.org/)
