@@ -65,3 +65,9 @@
 Per craccare una mail è fondamentale non sottovalutare il bottone `password dimenticata`.
 
 Di fondamentale importanza sono le liste di account violati disponibili online, in quel caso vanno scaricate e va usato un toll quale [breach-parse](https://github.com/hmaverickadams/breach-parse)
+
+### Vuln dbms
+- [Snyk Vulnerability Database](https://security.snyk.io/)
+- [nvd nist](https://nvd.nist.gov/)
+- [cve](https://www.cve.org/)
+- [vulmon](https://vulmon.com/)
