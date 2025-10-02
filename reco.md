@@ -24,6 +24,7 @@
 - Google Dorks
 - [Barracuda Reputation](https://www.barracudacentral.org/lookups/lookup-reputation)  
 - [VirusTotal](#virustotal)
+- Spyse (OSINT) *utilizzabile come comando* --> funziona solo con un account (API KEY)
 - Site archive history:
   - [oldweb.today](https://oldweb.today/#19960101/http://geocities.com/)
   - [Wayback Machine](https://archive.org/web/)
@@ -40,22 +41,29 @@
     - [phonebook.cz](https://phonebook.cz/) *find possible contact for a given domain*
 
 ### Usefull active reconnaissance
-- Gobuster
-- Nikto
+- Gobuster (web server enumeration: *discover endpoints*)
+- Nikto (web server)
+- wapiti (web server) usa `wapiti -u http://target.com -f html -o report.html`
 - Ports Scanning:
   - nmap
   - rustscan
-- traceroute
+- traceroute/tracert *for windows* 
 - ping
 - netcat
 - telnet
 - ssh
 - metasploit
 - nessus
-- Spyse
 - OpenVAS
-- wapiti
 - [smbclient](#smbclient)
+- SQL:
+    - `nmap -p <PORT> --script ms-sql-info,ms-sql-empty-password,ms-sql-brute <IP_TARGET>` *remember to use ms-sql-brute only if it is necessary*
+    - `sqlmap -u "http://target.com/page.php?id=1" --dbs` *solo se db esposto tramite WEBAPP*
+
+#### Complesse
+- Nessus
+- OpenVAS
+- Qualys
 
 ### User Agent Switch
 - estensione

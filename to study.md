@@ -61,3 +61,18 @@
   - bitfields
   - string vulnerabilities, print f (%qualcosa), bufferoverflow
 - app.any.run
+
+
+## General
+### Articles
+- [Schneier](www.schneier.com)
+- [arXiv](https://arxiv.org/)
+
+### Newsletter
+- [SANS @Risk](https://www.sans.org/newsletters/at-risk)
+    - [blog](https://www.sans.org/blog)
+    - [NewsBites](https://www.sans.org/newsletters/newsbites)
+    - [@Risk](https://www.sans.org/newsletters/at-risk)
+    - [OUCH!](https://www.sans.org/newsletters/ouch)
+- [Risky.biz](https://news.risky.biz/)
+- [List of newsletters](https://github.com/TalEliyahu/awesome-security-newsletters)
