@@ -75,4 +75,5 @@
     - [@Risk](https://www.sans.org/newsletters/at-risk)
     - [OUCH!](https://www.sans.org/newsletters/ouch)
 - [Risky.biz](https://news.risky.biz/)
+- [hackerone](https://www.hackerone.com/blog)
 - [List of newsletters](https://github.com/TalEliyahu/awesome-security-newsletters)
