@@ -67,8 +67,6 @@
 ### Articles
 - [Schneier](www.schneier.com)
 - [arXiv](https://arxiv.org/)
-
-### Newsletter
 - [SANS @Risk](https://www.sans.org/newsletters/at-risk)
     - [blog](https://www.sans.org/blog)
     - [NewsBites](https://www.sans.org/newsletters/newsbites)
@@ -76,4 +74,5 @@
     - [OUCH!](https://www.sans.org/newsletters/ouch)
 - [Risky.biz](https://news.risky.biz/)
 - [hackerone](https://www.hackerone.com/blog)
+- [Alert e Bollettini - ACN](https://www.acn.gov.it/portale/csirt-italia/alert-e-bollettini)
 - [List of newsletters](https://github.com/TalEliyahu/awesome-security-newsletters)
