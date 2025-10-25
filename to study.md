@@ -62,6 +62,11 @@
   - string vulnerabilities, print f (%qualcosa), bufferoverflow
 - app.any.run
 
+## New
+- `arp-scan`
+- scapy
+- ettercap
+
 
 ## General
 ### Articles
