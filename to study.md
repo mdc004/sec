@@ -62,17 +62,26 @@
   - string vulnerabilities, print f (%qualcosa), bufferoverflow
 - app.any.run
 
+## New
+- `arp-scan`
+- scapy
+- ettercap
+
 
 ## General
 ### Articles
 - [Schneier](www.schneier.com)
 - [arXiv](https://arxiv.org/)
-
-### Newsletter
 - [SANS @Risk](https://www.sans.org/newsletters/at-risk)
     - [blog](https://www.sans.org/blog)
     - [NewsBites](https://www.sans.org/newsletters/newsbites)
     - [@Risk](https://www.sans.org/newsletters/at-risk)
     - [OUCH!](https://www.sans.org/newsletters/ouch)
+<<<<<<< HEAD
 - [Risky.biz](https://risky.biz/newsletters/)
+=======
+- [Risky.biz](https://news.risky.biz/)
+- [hackerone](https://www.hackerone.com/blog)
+- [Alert e Bollettini - ACN](https://www.acn.gov.it/portale/csirt-italia/alert-e-bollettini)
+>>>>>>> 98010096bd647b601a13462e05b3315cf59ab577
 - [List of newsletters](https://github.com/TalEliyahu/awesome-security-newsletters)
