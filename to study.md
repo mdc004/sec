@@ -74,5 +74,5 @@
     - [NewsBites](https://www.sans.org/newsletters/newsbites)
     - [@Risk](https://www.sans.org/newsletters/at-risk)
     - [OUCH!](https://www.sans.org/newsletters/ouch)
-- [Risky.biz](https://news.risky.biz/)
+- [Risky.biz](https://risky.biz/newsletters/)
 - [List of newsletters](https://github.com/TalEliyahu/awesome-security-newsletters)
