@@ -42,7 +42,7 @@
 
 6.  Cross Site Request Forgery:
     1. Spiegare la tipologia di attacco denominata Cross Site Request Forgery e in quali condizioni un tale attacco sia possibile. Fornire un esempio realistico di payload CSRF per cambiare l’indirizzo email dell’utente su un sito vulnerabile
-    2. Quale è la differenza fra nonce e CRSF Token?
+    2. Quale è la differenza fra nonce (XSS) e CRSF Token?
 
 7. Nell’ambito del sistema Kerberos, dire quali sono (e descrivere brevemente) i compiti principali dell’Authentication Server (AS) e quelli del Ticket Granting Server (TGS) e per quale motivo lo si possa considerare un esempio di SSO (Single Sign On) centralizzato.
 
